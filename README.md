@@ -52,38 +52,5 @@ STEP 5:Include Necessary parameters in each functions.
 <img width="952" alt="image" src="https://github.com/1808charitha/EXNO-5-DS/assets/132996838/eafcc595-8c29-42f5-aee9-a5a5e90e3b73">
 <img width="955" alt="image" src="https://github.com/1808charitha/EXNO-5-DS/assets/132996838/d274afd6-0bf9-4dfd-949c-8d25005203e4">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Result:
 Thus the program to Perform Data Visualization using matplot python library for the given datas is been implemented.
